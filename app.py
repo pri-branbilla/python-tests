@@ -34,7 +34,7 @@ def read_blog():
 
 
 def print_posts(posts):
-    for post in posts:
+    pass
 
 def create_post():
     pass
