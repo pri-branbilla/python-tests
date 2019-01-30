@@ -1,5 +1,5 @@
 from unittest import TestCase
-from blog.tests.blog import Blog
+from blog import Blog
 
 class BlogTest(TestCase):
     def test_create_blog(self):
